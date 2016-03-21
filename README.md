@@ -1,5 +1,8 @@
 
 # viewport 动态全局缩放适配不同宽度的手机屏幕
+# 步骤
+1. 引入autoview.js这段脚本
+2. 引入css样式，定宽640px
 
 # autoview.js脚本中的内容：
   ``` javascript  
@@ -26,3 +29,11 @@
                 useScaledViewportMeta();
             }
       ```      
+# css样式中的内容
+``` css
+  .page-outer-wrap{ /*这是整个page的父容器*/
+    width: 640px;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+```
