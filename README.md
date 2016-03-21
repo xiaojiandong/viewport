@@ -1,7 +1,8 @@
-# viewport
-动态全局缩放适配不同宽度的手机屏幕
+
+# viewport 动态全局缩放适配不同宽度的手机屏幕
 
 # autoview.js脚本中的内容：
+  ``` javascript  
       var jsVer = 29;
             var useScaledViewportMeta = function ( ) {
             //一段动态的viewport meta设置，以640像素为基础宽度，动态全局缩放适配不同宽度的浏览器屏幕
@@ -24,3 +25,4 @@
            } else {
                 useScaledViewportMeta();
             }
+      ```      
