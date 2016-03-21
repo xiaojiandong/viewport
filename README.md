@@ -1,5 +1,6 @@
 
-# viewport 动态全局缩放适配不同宽度的手机屏幕
+# HTML5 属性viewport 
+# 动态全局缩放适配不同宽度的手机屏幕
 # 步骤
 1. 引入autoview.js这段脚本
 2. 引入css样式，定宽640px
