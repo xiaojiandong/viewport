@@ -30,10 +30,9 @@
             }
       ```      
 # css样式中的内容
-``` css
   .page-outer-wrap{ /*这是整个page的父容器*/
     width: 640px;
     margin: 0 auto;
     box-sizing: border-box;
   }
-```
+
