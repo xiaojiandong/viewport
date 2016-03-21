@@ -44,4 +44,12 @@
 ```
 *****************************
 # pc端呈现示意图
-[!image](https://github.com/xiaojiandong/viewport/blob/master/autoview/image/pc-auto.png)
+![image](https://github.com/xiaojiandong/viewport/blob/master/autoview/image/pc-auto.png)
+# 移动端iphone6P呈现示意图
+![image](https://github.com/xiaojiandong/viewport/blob/master/autoview/image/m-iphone6p.png)
+# 移动端iphone6呈现示意图
+![image](https://github.com/xiaojiandong/viewport/blob/master/autoview/image/m-iphone6.png)
+# 移动端iphone5呈现示意图
+![image](https://github.com/xiaojiandong/viewport/blob/master/autoview/image/m-iphone5.png)
+# 移动端iphone4呈现示意图
+![image](https://github.com/xiaojiandong/viewport/blob/master/autoview/image/m-iphone4.png)
