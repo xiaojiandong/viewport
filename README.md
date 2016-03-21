@@ -36,3 +36,11 @@
 *****************************
 *****************************
 # css样式中的内容
+``` css
+.page-outer-wrap{ /*这是最外层父容器的样式*/
+   width: 640px;
+   margin: 0 auto;
+   border: 1px solid #f00;
+   box-sizing: border-box;
+}
+```
