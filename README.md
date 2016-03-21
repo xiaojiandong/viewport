@@ -53,3 +53,5 @@
 ![image](https://github.com/xiaojiandong/viewport/blob/master/autoview/image/m-iphone5.png)
 # 移动端iphone4呈现示意图
 ![image](https://github.com/xiaojiandong/viewport/blob/master/autoview/image/m-iphone4.png)
+
+# 针对于其他安卓手机，同样缩放；也可以在ipad屏幕上缩放但不建议使用
