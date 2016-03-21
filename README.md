@@ -33,8 +33,6 @@
   ```      
 
 *****************************
-*****************************
-*****************************
 # css样式中的内容
 ``` css
 .page-outer-wrap{ /*这是最外层父容器的样式*/
@@ -44,3 +42,6 @@
    box-sizing: border-box;
 }
 ```
+*****************************
+# pc端呈现示意图
+[!image](https://github.com/xiaojiandong/viewport/blob/master/autoview/image/pc-auto.png)
